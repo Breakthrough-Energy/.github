@@ -12,10 +12,11 @@ assignees: BainanXia, danielolsen, jon-hagg, rouille
 - [ ] Is your feature request essential for your project?
 
 
-### Describe the workflow you want to enable (Required)
+### Describe the workflow you want to enable
 A clear and concise description of what can be enhanced, e.g., "I wish I could do [...]"
 
-### Describe your proposed implementation
+### Describe your proposed implementation, if applicable
+
 This should provide a description of the feature request, e.g.:
 * "The class `Foo` should have a new method `bar` that allows to [...]"
 * "Function `foo` needs a new arguments `bar` to set [...]"
