@@ -38,7 +38,7 @@ A description of the expected outcome from the code snippet.
 ### Environment
 Please specify your platform and versions of the relevant libraries you are using:
 * Operating system:
-* PowerSimData revision (run `git rev-parse origin/HEAD`):
+* git revision (run `git rev-parse origin/HEAD`):
 * Python version:
 * Jupyter version (if applicable):
 * Other libraries:
