@@ -39,8 +39,9 @@ A description of the expected outcome from the code snippet.
 Please specify your platform and versions of the relevant libraries you are using:
 * Operating system:
 * git revision (run `git rev-parse origin/HEAD`):
-* Python version:
+* Python version (if applicable):
 * Jupyter version (if applicable):
+* Julia version (if applicable):
 * Other libraries:
 
 ### Additional context
