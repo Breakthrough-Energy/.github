@@ -3,7 +3,7 @@ name: Data Intake
 about: Investigate the use of external data
 title: Data Intake
 labels: data intake
-assignees: danielolsen, rouille
+assignees: jon-hagg, rouille
 
 ---
 
